@@ -465,7 +465,7 @@ Developed by: Ragul M
 ## OUTPUT:
 
 ### Home Page:
-![output]()
+![output](https://github.com/ragulmani936/bootstrapwebsite/blob/main/Screenshot%20(62).png)
 ## Modernization:
 ![output]()
 ## About us page code:
